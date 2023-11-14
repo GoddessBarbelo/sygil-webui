@@ -104,3 +104,4 @@ tensorflow==2.10.0
 # Orphaned Packages:  No usage found
 
 
+pillow>=9.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
